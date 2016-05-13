@@ -21,8 +21,6 @@ As defined by me using some definitions from BA. Most of these breweries have "s
 
 * Fordham and Dominion Brewing — 40 percent owned by Anheuser-Busch InBev
 
-* Founders Brewing — 30 percent owned by Mahou-San Miguel
-
 * Four Peaks Brewing — Anheuser-Busch InBev
 
 * Golden Road Brewing — Anheuser-Busch InBev
