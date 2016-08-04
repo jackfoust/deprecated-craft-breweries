@@ -29,8 +29,6 @@ As defined by me using some definitions from BA. Most of these breweries have "s
 
 * Kona Brewing — 32-percent owned by Anheuser-Busch InBev
 
-* Lagunitas Brewing — 50-percent owned by Heineken International
-
 * Leinenkugel's Brewery — MillerCoors
 
 * Meantime Brewing (U.K.) — SABMiller
