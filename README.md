@@ -45,4 +45,6 @@ As defined by me using some definitions from BA. Most of these breweries have "s
 
 * Shock Top Brewing — Anheuser-Busch InBev
 
+* Wicked Weed — Anheuser-Busch InBev Partnership??
+
 * Widmer Brewing — 32-percent owned by Anheuser-Busch InBev
