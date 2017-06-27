@@ -1,11 +1,7 @@
 # deprecated-craft-breweries
-Craft Breweries I no longer consider craft.
-
-As defined by me using some definitions from BA. Most of these breweries have "sold out" to AB-InBev or the likes.
+Anheuser-Busch InBev SA/NV bullshit.
 
 * 10 Barrel Brewing — Anheuser-Busch InBev
-
-* Blue Moon Brewing — MillerCoors
 
 * Blue Point Brewing — Anheuser-Busch InBev
 
@@ -31,20 +27,12 @@ As defined by me using some definitions from BA. Most of these breweries have "s
 
 * Kona Brewing — 32-percent owned by Anheuser-Busch InBev
 
-* Leinenkugel's Brewery — MillerCoors
-
 * Meantime Brewing (U.K.) — SABMiller
-
-* Mendocino Brewing — United Breweries Group
-
-* Olde Saratoga Brewing — United Breweries Group
 
 * Redhook Brewery — 32-percent owned by Anheuser-Busch InBev
 
-* Saint Archer Brewing — MillerCoors
-
 * Shock Top Brewing — Anheuser-Busch InBev
 
-* Wicked Weed — Anheuser-Busch InBev Partnership??
+* Wicked Weed — Anheuser-Busch InBev
 
 * Widmer Brewing — 32-percent owned by Anheuser-Busch InBev
