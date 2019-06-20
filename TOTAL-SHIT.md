@@ -23,10 +23,6 @@ Anheuser-Busch InBev SA/NV bullshit.
 
 * Goose Island Beer Company — Anheuser-Busch InBev
 
-* Grupo Modelo (Corona) — Anheuser-Busch InBev
-
-* Labatt Brewing Company — Anheuser-Busch InBev
-
 * Karbach Brewing Company — Anheuser-Busch InBev
 
 * Kona Brewing — 32-percent owned by Anheuser-Busch InBev
