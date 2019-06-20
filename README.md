@@ -27,6 +27,8 @@ As defined by me using some definitions from BA. Most of these breweries have "s
 
 * Goose Island Beer Company — Anheuser-Busch InBev
 
+* Grupo Modelo (Corona) — Anheuser-Busch InBev
+
 * Karbach Brewing Company — Anheuser-Busch InBev
 
 * Kona Brewing — 32-percent owned by Anheuser-Busch InBev
