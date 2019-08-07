@@ -29,6 +29,8 @@ Anheuser-Busch InBev SA/NV bullshit.
 
 * Meantime Brewing (U.K.) — SABMiller
 
+* Platform Beer Co — Anheuser-Busch InBev
+
 * Redhook Brewery — 32-percent owned by Anheuser-Busch InBev
 
 * Shock Top Brewing — Anheuser-Busch InBev
