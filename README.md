@@ -39,6 +39,8 @@ As defined by me using some definitions from BA. Most of these breweries have "s
 
 * Olde Saratoga Brewing — United Breweries Group
 
+* Platform Beer Co — Anheuser-Busch InBev
+
 * Redhook Brewery — 32-percent owned by Anheuser-Busch InBev
 
 * Saint Archer Brewing — MillerCoors
